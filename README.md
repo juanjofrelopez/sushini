@@ -3,8 +3,9 @@
 ## TODO
 - [x] add new sushi to the db
 - [x] get varierties from the db
-- [ ] add varieties from admin
-- [ ] order and discount stock
+- [x] add varieties from admin
+- [x] update stock from admin
+- [ ] order from chat and discount stock
 - [ ] order and register purchase
 
 ### details

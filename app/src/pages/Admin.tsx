@@ -10,6 +10,18 @@ const Admin = () => {
   const [loading, setLoading] = useState(true);
   const [error, setError] = useState<string | null>(null);
 
+  const updateStock = async (product_code: string, amount: number) => {
+    try {
+      await api.post(`/sushi/stock/${product_code}`, {
+        quantity: amount,
+      });
+    } catch (error: any) {
+      setError("Some error happened :(");
+    } finally {
+      fetchProducts();
+    }
+  };
+
   const fetchProducts = async () => {
     try {
       setLoading(true);
@@ -43,13 +55,7 @@ const Admin = () => {
       {loading ? (
         <div className="text-center py-8">Loading...</div>
       ) : (
-        <StockTable
-          products={products}
-          onUpdateStock={(productId, amount) => {
-            // You'll implement the stock update logic
-            console.log("Update stock:", productId, amount);
-          }}
-        />
+        <StockTable products={products} onUpdateStock={updateStock} />
       )}
     </div>
   );
