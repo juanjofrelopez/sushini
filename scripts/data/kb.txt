@@ -1,0 +1,118 @@
+What types of sushi do you offer? We currently offer Salmon Rolls and Tuna Nigiri.
+What is in a Salmon Roll? Our Salmon Roll contains fresh salmon and seasoned sushi rice, wrapped in nori seaweed.
+What is Tuna Nigiri? Tuna Nigiri is a hand-pressed piece of vinegared rice topped with a slice of fresh tuna.
+Is your fish fresh? Yes, we use only high-quality, fresh fish sourced daily for our sushi.
+Do you offer any other types of sushi besides Salmon Rolls and Tuna Nigiri? At this time, we only offer Salmon Rolls and Tuna Nigiri. We may expand our menu in the future.
+Are your rolls made to order? Yes, all of our sushi is made fresh to order.
+How should I store leftover sushi? We recommend consuming our sushi immediately for the best quality. If you must store it, refrigerate it promptly and consume it within 24 hours.
+Do you offer delivery or takeout? Yes, we offer both delivery and takeout services.
+Do you have any vegetarian options? Currently, our menu consists of fish-based sushi. We do not offer vegetarian options at this time.
+What if I have allergies? Please inform us of any allergies before placing your order. While we take precautions to prevent cross-contamination, we cannot guarantee a completely allergen-free environment.
+Do you use sustainable seafood? We strive to source our seafood responsibly and sustainably whenever possible.
+What kind of rice do you use for your sushi? We use high-quality, short-grain Japanese sushi rice seasoned with vinegar, sugar, and salt.
+Do you offer any sauces or condiments with your sushi? We offer soy sauce, wasabi, and pickled ginger (gari) with our sushi.
+Are your sushi rolls gluten-free? Our sushi itself is gluten-free (rice, fish, nori). However, soy sauce contains gluten. We offer gluten-free tamari upon request.
+How long does it take to prepare an order? Preparation time varies depending on the order volume, but we aim to have your order ready as quickly as possible.
+Do you offer catering services? Please contact us directly to discuss catering options and availability.
+What are your hours of operation? Our hours of operation are from 9 to 5
+Do you accept online orders? Yes, we accept online orders through www.sushini.com
+What payment methods do you accept? We accept only bitcoin.
+Is there parking available? NO we do not have a physical store, this a blockchain sushi store.
+Is your fish traceable on the blockchain? Yes, we use blockchain technology to track our fish from the source to your plate, ensuring transparency and quality.
+What does "blockchain sushi" mean? It means we leverage blockchain technology for supply chain transparency, verifying the origin and handling of our ingredients.
+How does the blockchain verify the freshness of the fish? While the blockchain doesn't directly measure freshness, it records key data points like catch date, location, and transportation details, allowing for greater traceability and accountability.
+Can I see the origin of my fish? Yes, you can scan the QR code on your packaging to access the blockchain record and view the fish's journey.
+What are the benefits of blockchain for sushi? Blockchain enhances transparency, builds trust with customers, and helps prevent fraud and mislabeling in the seafood industry.
+Do you accept cryptocurrency as payment? Yes, we accept Bitcoin, Ethereum, and other major cryptocurrencies.
+How do I pay with crypto? You can pay using your crypto wallet by scanning the QR code at checkout or providing the transaction details.
+Is there a discount for paying with crypto? Occasionally, we offer promotions and discounts for customers who pay with cryptocurrency.
+What blockchain network do you use? We utilize the [Name of Blockchain, e.g., Ethereum, Solana] blockchain for our traceability system.
+How is my data protected on the blockchain? Blockchain technology is inherently secure and decentralized, ensuring the integrity and immutability of the recorded data.
+Do you offer NFTs related to your sushi? Yes, we occasionally release limited-edition NFTs that offer exclusive benefits and rewards to our customers.
+What kind of rewards can I get with your NFTs? NFT holders may receive discounts, exclusive access to events, or even free sushi.
+How do I purchase your NFTs? Our NFTs are available for purchase on [NFT Marketplace, e.g., OpenSea, Rarible].
+Do you have a loyalty program? Yes, we have a loyalty program that rewards repeat customers with exclusive perks and discounts.
+How do I join the loyalty program? You are automatically enrolled in our loyalty program when you create an account or make your first purchase.
+Do you offer any educational resources about sustainable seafood and blockchain? Yes, we provide resources on our website and social media channels to educate customers about these topics.
+Are your packaging materials eco-friendly? We are committed to using sustainable and eco-friendly packaging materials.
+Do you partner with any environmental organizations? Yes, we partner with [Name of Organization] to support ocean conservation efforts.
+What measures do you take to ensure food safety? We adhere to strict food safety standards and regulations to ensure the highest quality and safety of our products.
+How can I contact customer support? You can reach our customer support team via email at contact@sushi.ni or by phone at 555-8904.
+Do you offer party platters or catering for large groups? Yes, we offer a variety of party platters and catering options for events of all sizes. Please contact us for more details.
+Do you have a kids' menu? While we don't have a dedicated kids' menu, we can often prepare simpler options upon request.
+Can I customize my sushi roll? We are happy to accommodate reasonable customization requests whenever possible. Please let us know your preferences when ordering.
+Do you offer brown rice sushi? We currently only offer white sushi rice, but we may consider offering brown rice in the future.
+What is the shelf life of your pre-made sushi? We recommend consuming our sushi immediately for optimal freshness and quality.
+Do you offer any cooked sushi options? Our current menu focuses on fresh, raw fish sushi, but we may introduce cooked options in the future.
+Are your sauces homemade? Yes, many of our sauces are made in-house using fresh ingredients.
+Do you offer any seasonal sushi specials? We occasionally offer seasonal specials featuring fresh, seasonal ingredients. Be sure to check our website or social media for updates.
+Do you have any nutritional information available for your sushi? We can provide general nutritional information upon request.
+Do you offer gift certificates? Yes, we offer gift certificates in various denominations.
+Is your restaurant wheelchair accessible? Yes, our restaurant is fully wheelchair accessible.
+Do you have outdoor seating? [Answer about outdoor seating availability].
+Do you take reservations? We accept reservations for larger groups, but walk-ins are always welcome.
+Do you offer any lunch specials? We may offer lunch specials during certain hours. Please check our menu or website for details.
+Do you have a loyalty program that doesn't involve blockchain? Yes, we have a traditional loyalty program where you earn points for each purchase that can be redeemed for discounts.
+How do I sign up for your non-blockchain loyalty program? You can sign up in-store or through our website.
+Do you sell any merchandise, like t-shirts or hats? We may offer branded merchandise from time to time. Check our website or ask in-store.
+Are you hiring? We are always looking for talented individuals to join our team. Please check our website for current openings.
+How can I provide general feedback about my experience? We welcome your feedback and encourage you to contact us through our website, social media, or by phone.
+Do you have a newsletter I can subscribe to? Yes, you can subscribe to our newsletter on our website to receive updates on specials, events, and more.
+Do you offer any party packages for birthdays or other events? Yes, we can create custom party packages to suit your needs and budget.
+Do you have high chairs available for children? Yes, we have high chairs available for our younger guests.
+Can I place an order online for pickup at a specific time? Yes, you can specify a pickup time when placing your online order.
+Do you offer any catering options for corporate events? We offer a variety of catering options suitable for corporate events, from small meetings to large conferences.
+Do you use any locally sourced ingredients besides fish? We try to source other ingredients locally whenever possible, such as vegetables and rice.
+Are your sushi rolls made with real crab or imitation crab? We use Real crab in our rolls.
+What kind of seaweed do you use for your sushi rolls? We use high-quality nori seaweed for our rolls.
+Do you have any daily specials? We may have daily specials in addition to our regular menu. Ask your server or check our website for details.
+Do you offer any desserts? Yes, we have flan con dulce de leche included in every purchase.
+Do you sell beverages besides water and soda? yes we offer coca cola and beer
+Do you offer any gift wrapping for gift certificates? Yes, we can gift wrap gift certificates upon request.
+Do you have a lost and found? Yes, we have a lost and found. Please contact us if you believe you have lost an item at our restaurant.
+Do you offer any discounts for students or seniors? No.
+Do you have any upcoming events or promotions? Check our website or social media pages for information on upcoming events and promotions.
+Do you offer any training or workshops on making sushi? We are considering offering sushi-making workshops in the future. Stay tuned for updates.
+Do you have a suggestion box? We welcome your feedback and have a suggestion box available in our restaurant.
+Do you collaborate with any local businesses? We occasionally collaborate with other local businesses on special events and promotions.
+Do you have a social media presence? Yes, you can find us on twitter @sushini.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
